@@ -144,3 +144,6 @@ img {
   text-transform: uppercase;
 }
 
+.md-list {
+  overflow: auto;
+}
